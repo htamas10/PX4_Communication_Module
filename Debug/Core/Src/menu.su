@@ -1,0 +1,6 @@
+../Core/Src/menu.c:17:6:Update_Main_Menu	24	static
+../Core/Src/menu.c:33:6:Display_UART_Config	4	static
+../Core/Src/menu.c:37:5:Display_Add_Weight	40	static
+../Core/Src/menu.c:81:6:Display_Options	48	static
+../Core/Src/menu.c:128:6:Display_Manual_Set	4	static
+../Core/Src/menu.c:132:6:Update_Sub_Menu	8	static

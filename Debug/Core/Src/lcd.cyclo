@@ -1,0 +1,7 @@
+../Core/Src/lcd.c:9:6:Init_LCD	1
+../Core/Src/lcd.c:25:6:DataToPinMUX	1
+../Core/Src/lcd.c:46:6:LCD_Write	7
+../Core/Src/lcd.c:81:6:LCD_Clear	3
+../Core/Src/lcd.c:94:6:LCD_WriteString	2
+../Core/Src/lcd.c:105:6:LCD_Write_Char	4
+../Core/Src/lcd.c:125:6:LCD_DrawRect	3
